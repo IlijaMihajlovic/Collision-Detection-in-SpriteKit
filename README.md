@@ -1,8 +1,8 @@
 # Collision Detection in SpriteKit
 
-![platform-ios](https://img.shields.io/badge/platform-ios-orange.svg)
-![swift-version](https://img.shields.io/badge/swift-3.2-red.svg)
-![lisence](https://img.shields.io/badge/license-MIT-black.svg)
+![platform-ios](https://img.shields.io/badge/platform-ios-Blue.svg)
+![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
+![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
 A simple SpriteKit project showing collision detection. The whole project is created completely programmatically without .sks  files and Xcodes Scene Editor
 
