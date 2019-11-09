@@ -25,7 +25,7 @@ ___
 ```
 MIT License
 
-Copyright (c) 2018 Ilija Mihajlovic
+Copyright (c) 2017 Ilija Mihajlovic
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
