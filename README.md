@@ -4,7 +4,7 @@
 ![swift-version](https://img.shields.io/badge/swift-4.2-Orange.svg)
 ![lisence](https://img.shields.io/badge/license-MIT-Lightgrey.svg)
 
-A simple SpriteKit project showing collision detection. The whole project is created completely programmatically without .sks  files and Xcodes Scene Editor
+A simple SpriteKit project showing collision detection. The whole project is created completely programmatically without .sks  files and Xcodes Scene Editor.
 
 ___
 
